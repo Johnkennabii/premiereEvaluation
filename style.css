@@ -1,3 +1,20 @@
+/* Global configuration */
+
+
+/* Image Format */
+
+.imgResp {
+    height: 100%;
+    width: 100%;
+    transition: all 500ms;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.8);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 /*  Configuration Mobile */
 
 @media screen and (max-width: 768px) {

@@ -34,6 +34,22 @@ p {
     text-align: justify;
 }
 
+.btn {
+    font-family: 'Saira', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.card-link,
+.card-link:focus {
+    font-family: 'Saira', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #5f97af;
+}
+
+.card-link:hover {
+    color: rgba(0, 0, 0, 0.65);
+}
+
 
 /* Image Format */
 

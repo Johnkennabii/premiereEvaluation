@@ -25,3 +25,10 @@
 ## Création section Agir & Footer
 # Mise en en forme bouton de la section "Agir"
 # Ajout classe .chiffre , .card-title , .carousel-caption>p , .btn  dans le CSS pour Mobile  Media Query < 768 px
+
+## Creation 2e page "events.html" ##
+# Mise eb place sections : banner, content
+
+## Creation section action
+# ajout Card 
+# mise en forme lien card 

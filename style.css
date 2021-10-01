@@ -1,0 +1,28 @@
+/*  Configuration Mobile */
+
+@media screen and (max-width: 768px) {
+    /* Custom Menu Mobile */
+    .navbar-nav {
+        float: none;
+        margin: 0 auto;
+        display: block;
+        text-align: right;
+    }
+}
+
+
+/* Configuration > 768px */
+
+@media screen and (min-width: 768px) {
+    /* Custom Menu */
+    .navbar-nav {
+        float: none;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+    }
+    .navbar-nav>li {
+        display: inline-block;
+        float: none;
+    }
+}

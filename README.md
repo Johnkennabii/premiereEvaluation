@@ -19,3 +19,9 @@
 # Ajustement mosaic  Media Query > 1200px
 # Le carousel apparaît jusqu'au breakpoint < 768px puis le mosaic apparaît > 768px
 # Ajout dossier /img/card/
+
+## Création section Indice
+
+## Création section Agir & Footer
+# Mise en en forme bouton de la section "Agir"
+# Ajout classe .chiffre , .card-title , .carousel-caption>p , .btn  dans le CSS pour Mobile  Media Query < 768 px

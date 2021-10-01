@@ -6,3 +6,6 @@
 ## Création banner
 # Création dossier img 
 # Création classe imgResp : uniformisation des images
+
+## Création content 
+# Mise en place Fonts, h1, h2, h5, p

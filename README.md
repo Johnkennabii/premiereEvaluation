@@ -1,7 +1,7 @@
 ### Premiere Evaluation
 
 ## Création section Menu 
-# Création css pour menu : float right pour Mobile & float center à partir breakpoint > 768px
+# Création css pour menu : float right pour Mobile & float center à partir Media Query > 768px
 
 ## Création section Banner :
 # Création dossier img 
@@ -12,3 +12,10 @@
 
 ## Mis en forme Menu : 
 # personaliation  Toggler pour menu mobile & Navbar
+
+## Création section Mosaic & Carousel
+# mise en place d'un Carousel pour Mobile  Media Query < 768 px
+# mise en place d'un mosaic   Media Query > 768px
+# Ajustement mosaic  Media Query > 1200px
+# Le carousel apparaît jusqu'au breakpoint < 768px puis le mosaic apparaît > 768px
+# Ajout dossier /img/card/

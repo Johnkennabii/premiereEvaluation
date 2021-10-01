@@ -131,4 +131,34 @@ p {
         display: inline-block;
         float: none;
     }
+    .banner {
+        height: 20vh;
+    }
+}
+
+
+/* Configuration > 768px */
+
+@media screen and (min-width: 768px) {
+    /* Custom Banner */
+    .banner,
+    .card-wide {
+        height: 20vh;
+    }
+    .card-wide {
+        grid-column: span 2 / auto;
+    }
+    .card-tall {
+        grid-row: span 2 / auto;
+    }
+}
+
+
+/* Configuration > 1200px */
+
+@media screen and (min-width: 1200px) {
+    .banner,
+    .card-wide {
+        height: 50vh;
+    }
 }

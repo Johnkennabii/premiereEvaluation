@@ -32,3 +32,5 @@
 ## Creation section action
 ### ajout Card 
 ### mise en forme lien card 
+
+## Mise a jour des balisage SEO
